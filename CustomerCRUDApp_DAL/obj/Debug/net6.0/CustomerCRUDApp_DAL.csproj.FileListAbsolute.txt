@@ -1,0 +1,14 @@
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\bin\Debug\net6.0\CustomerCRUDApp_DAL.deps.json
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\bin\Debug\net6.0\CustomerCRUDApp_DAL.runtimeconfig.json
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\bin\Debug\net6.0\CustomerCRUDApp_DAL.dll
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\bin\Debug\net6.0\CustomerCRUDApp_DAL.pdb
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\CustomerCRUDApp_DAL.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\CustomerCRUDApp_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\CustomerCRUDApp_DAL.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\CustomerCRUDApp_DAL.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\CustomerCRUDApp_DAL.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\CustomerCRUDApp_DAL.dll
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\refint\CustomerCRUDApp_DAL.dll
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\CustomerCRUDApp_DAL.pdb
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\CustomerCRUDApp_DAL.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_DAL\obj\Debug\net6.0\ref\CustomerCRUDApp_DAL.dll

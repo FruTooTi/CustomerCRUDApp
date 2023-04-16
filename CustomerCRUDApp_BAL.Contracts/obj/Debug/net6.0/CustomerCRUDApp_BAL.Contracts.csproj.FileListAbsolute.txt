@@ -1,0 +1,15 @@
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\bin\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.deps.json
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\bin\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.dll
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\bin\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.pdb
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\bin\Debug\net6.0\CustomerCRUDApp_DAL.dll
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\bin\Debug\net6.0\CustomerCRUDApp_DAL.pdb
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.dll
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\refint\CustomerCRUDApp_BAL.Contracts.dll
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\CustomerCRUDApp_BAL.Contracts.pdb
+C:\Users\MONSTER\Desktop\CalismaMasasi\Tech4Pay\CustomerCRUDApp\CustomerCRUDApp_BAL.Contracts\obj\Debug\net6.0\ref\CustomerCRUDApp_BAL.Contracts.dll

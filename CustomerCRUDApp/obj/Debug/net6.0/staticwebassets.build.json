@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aIPYojPubwdBJ1p5RFi7AyHmPoUoORA4Q/XEriBwV4M=",
+  "Source": "CustomerCRUDApp",
+  "BasePath": "_content/CustomerCRUDApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
