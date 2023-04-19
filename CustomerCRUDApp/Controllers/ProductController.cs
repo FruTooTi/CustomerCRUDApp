@@ -20,35 +20,30 @@ namespace CustomerCRUDApp.Controllers
         public async Task<IActionResult> GetAllAsync()
         {
             var data = await _unitOfWork._productService.GetAllAsync();
-            await _unitOfWork.SaveChangesAsync();
             return Ok(data);
         }
         [HttpGet("{id}")]
         public async Task<IActionResult> GetByIdAsync(int id)
         {
             var data = await _unitOfWork._productService.GetByIdAsync(id);
-            await _unitOfWork.SaveChangesAsync();
             return Ok(data);
         }
         [HttpPost]
         public async Task<IActionResult> InsertAsync(ProductAddOrUpdateDTO product)
         {
             var data = await _unitOfWork._productService.InsertAsync(product);
-            await _unitOfWork.SaveChangesAsync();
             return Ok(data);
         }
         [HttpPut]
         public async Task<IActionResult> UpdateAsync(int id, ProductAddOrUpdateDTO product)
         {
             var data = await _unitOfWork._productService.UpdateAsync(product, id);
-            await _unitOfWork.SaveChangesAsync();
             return Ok(data);
         }
         [HttpDelete]
         public async Task<IActionResult> DeleteAsync(int id)
         {
             var data = await _unitOfWork._productService.DeleteAsync(id);
-            await _unitOfWork.SaveChangesAsync();
             return Ok(data);
         }
     }

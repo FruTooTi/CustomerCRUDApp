@@ -1,4 +1,5 @@
 using CustomerCRUDApp.DAL;
+using CustomerCRUDApp.Infrastructure.Middlewares;
 using CustomerCRUDApp.Infrastructure.Repositories.Impl;
 using CustomerCRUDApp_BAL.Contracts.Interfaces;
 using CustomerCRUDApp_BAL.Services;
@@ -39,5 +40,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseSaveChanges();
 
 app.Run();

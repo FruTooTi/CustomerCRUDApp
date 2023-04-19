@@ -18,14 +18,12 @@ namespace CustomerCRUDApp.Controllers
         public async Task<IActionResult> InsertAsync(int CustomerId, int ProductId)
         {
             var data = await _unitOfWork._custProdService.InsertAsync(CustomerId, ProductId);
-            await _unitOfWork.SaveChangesAsync();
             return Ok(data);
         }
         [HttpDelete("{CustomerId}/{ProductId}")]
         public async Task<IActionResult> DeleteAsync(int CustomerId, int ProductId)
         {
             var data = await _unitOfWork._custProdService.DeleteAsync(CustomerId, ProductId);
-            await _unitOfWork.SaveChangesAsync();
             return Ok(data);
         }
     }
